@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-10-25 00:59:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-10-25 00:55:31 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
